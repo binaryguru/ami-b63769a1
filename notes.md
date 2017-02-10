@@ -26,6 +26,7 @@ X yum-config-manager --enable rhel-7-server-extras-rpms
 
 >> Enable the epel-repository
 # yum install https://dl.fedoraproject.org/pub/epel/epel-release-latest-7.noarch.rpm
+(# yum install htop)
 
 >> Install open vpn and easy-rsa and iptables
 # yum install openvpn easy-rsa iptables-services

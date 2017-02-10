@@ -8,9 +8,9 @@ fi
 # User specific environment and startup programs
 
 PATH=$PATH:$HOME/.local/bin:$HOME/bin
-EDITOR='nano'
-VISUAL=$EDITOR
+VISUAL=/usr/bin/nano
+EDITOR="$VISUAL"
 
 export PATH
-export EDITOR
 export VISUAL
+export EDITOR
