@@ -25,3 +25,12 @@ https://www.howtoforge.com/tutorial/how-to-install-openvpn-on-centos-7/
 How to create a bare metal (.iso image) backup of a live/running Linux server (CentOS 7 instructions)
 http://www.joe0.com/2015/11/14/how-to-create-a-bare-metal-iso-image-backup-of-a-liverunning-linux-server-centos-7-instructions/
 
+How To Install Bacula Server on CentOS 7
+https://www.digitalocean.com/community/tutorials/how-to-install-bacula-server-on-centos-7
+
+How To Back Up a CentOS 7 Server with Bacula
+https://www.digitalocean.com/community/tutorials/how-to-back-up-a-centos-7-server-with-bacula
+
+How To Create Hot Backups of MySQL Databases with Percona XtraBackup on CentOS 7
+https://www.digitalocean.com/community/tutorials/how-to-create-hot-backups-of-mysql-databases-with-percona-xtrabackup-on-centos-7
+
