@@ -22,3 +22,6 @@ http://www.techbrown.com/linux-tar-commands-examples-centos-7-rhel-7.shtml
 *How to install OpenVPN Server and Client on CentOS 7
 https://www.howtoforge.com/tutorial/how-to-install-openvpn-on-centos-7/
 
+How to create a bare metal (.iso image) backup of a live/running Linux server (CentOS 7 instructions)
+http://www.joe0.com/2015/11/14/how-to-create-a-bare-metal-iso-image-backup-of-a-liverunning-linux-server-centos-7-instructions/
+
