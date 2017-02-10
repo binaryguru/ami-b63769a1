@@ -1,4 +1,5 @@
-rhel 7 amazon
+RHEL-7.3_HVM_GA-20161026-x86_64-1-Hourly2-GP2 (ami-b63769a1)
+Notes for setting up OpenVPN server on RHEL 7.3 running on Amazon EC2
 
 # sudo su -
 # yum update
